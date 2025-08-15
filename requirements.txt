@@ -1,0 +1,6 @@
+androguard==3.3.5
+altair
+#openai==1.13.3     # if using OpenAI API
+transformers  # for local models
+torch
+streamlit   # optional UI
